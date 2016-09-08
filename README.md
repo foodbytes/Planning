@@ -5,34 +5,30 @@ Project overview, user stories, learning objectives...
 
 Project Description
 -------------------
-Gretel is an app inspired by the [exquisite corpse](http://en.wikipedia.org/wiki/Exquisite_corpse) writing game. The app adds a geolocation element to the game where participants must physically go to the location of a story to be able to contribute. 
+FoodBytes is a recipe reader application. It recieves voice commands and as a result will trigger the play of audio. FoodBytes plays audio following voice command and also maintains your position within an array.
 
-The app has a Rails backend for user authentication and the db of stories and contributions. 
-There is a phone app for ios and android built on cordova. 
-There is also a responsive desktop version of the app.
+The app has a Postgres database backend for user recipies and steps. There will be a phone app for ios and android(?) built on cordova. There is also a responsive desktop version of the app.
 
 App link:
 ---------
-You can find the currently deployed app at gretel.nz
+You can find the currently deployed app at heroku
 
 Github workflow
 ---------------
 * Master always has passing tests.
-* Pull requests approved by Zombee
-* Features should be built on branches and the merged via pull request.
+* All pull requests reviewed by some one else  
+* Features should be built on branches and the merged via pull request...frequently 
 
 Team Roles / Accountabilities
 -----------------------------
 
-###Zombee
+###Mandy
 
-We have an odd number of team members so the odd one out gets to be the Zombee. Everyone will get a turn at being the zombee for a whole day. They:
-
-* Organise and enforce mandatory fun times at 3pm.
-* Approve pull requests.
-* Available to swarm.
-* Does agile tasks.
-* Project manages.
+* Organise and enforce mandatory fun times
+* Approve pull requests
+* Available to swarm
+* Does agile tasks
+* Project manages
 
 Typical Day Plan
 ----------------
