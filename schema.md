@@ -1,37 +1,23 @@
 MVP Schema
 ==========
 
-User:
+Recipies:
 -----
 * id
 * name
-* email
-* current_location - geocode at login
-* contributions - has many contributions
-* stories - has many stories
-* created_at
-* updated_at
+* cooktime
+* description
+* ingredients
+* created_at (?)
+* updated_at (?)
 
-Story:
+Steps:
 ------
 * id
-* title
-* origin longitude
-* origin latitude
-* contributions - has many contributions
-* contribution limit
-* completed boolean
-* created_at
-* updated_at
+* Instruction 
+* Audio Path 
+* Recipe_ID
+* created_at (?)
+* updated_at (?)
 
-Contribution:
--------------
-* id
-* user: - belongs to a user
-* story - belongs to a story
-* content
-* longitude
-* latitude
-* created_at
-* updated_at
 
