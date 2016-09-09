@@ -6,14 +6,14 @@ A USER
 
 ###CAN SEE ALL OF THE HIGH LEVEL INFORMATION ON THE LANDING PAGE
 * understand what foodBytes is about
-* <s>click on the video to see a demo of foodBytes in use</s>
-* <s>click on 'get started' so to select a recipe and be redirected to contents page</s>
+* click on the video to see a demo of foodBytes in use
+* click on 'get started' so to select a recipe and be redirected to contents page
 
 ###CAN ACCESS INFORMATION ON THE CONTENTS PAGE
-* <s>see a list of contents</s>
-* <s>see an image of the recipe so that they know what it looks like</s>
-* <s>read a short description of the recipe so that they get an idea of the type of dish it is</s>
-* <s>select a recipe and go to that recipe (using voice or click)</s>
+* see a list of contents
+* see an image of the recipe so that they know what it looks like
+* read a short description of the recipe so that they get an idea of the type of dish it is
+* select a recipe and go to that recipe (using voice or click)
 
 
 
