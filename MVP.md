@@ -5,7 +5,7 @@ A USER
 ------
 
 ###CAN SEE ALL OF THE HIGH LEVEL INFORMATION ON THE LANDING PAGE
-* <s>understand what foodBytes is about</s>
+* understand what foodBytes is about
 * <s>click on the video to see a demo of foodBytes in use</s>
 * <s>click on 'get started' so to select a recipe and be redirected to contents page</s>
 
