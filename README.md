@@ -22,7 +22,7 @@ Github workflow
 Team Roles / Accountabilities
 -----------------------------
 
-###Mandy
+###We are a team of five. Each day someone will work on their own and take responsibility of the following: 
 
 * Organise and enforce mandatory fun times
 * Approve pull requests
